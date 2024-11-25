@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=JTMS1 Pin=P2-2
+Removed Pin From Net: NetName=JTCK1 Pin=P2-3
+Removed Pin From Net: NetName=NRST1 Pin=P2-5
+Removed Pin From Net: NetName=USB1_N Pin=R1-2
+Removed Pin From Net: NetName=USB1_P Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=R4-2
+Removed Pin From Net: NetName=NRST1 Pin=U1-7
+Removed Pin From Net: NetName=USB1_N Pin=U1-32
+Removed Pin From Net: NetName=USB1_P Pin=U1-33
+Removed Pin From Net: NetName=JTMS1 Pin=U1-34
+Removed Pin From Net: NetName=JTCK1 Pin=U1-37
+Added Pin To Net: NetName=VCC1 Pin=R4-2
+Added Pin To Net: NetName=JTCK2 Pin=P2-3
+Added Pin To Net: NetName=JTCK2 Pin=U1-37
+Added Net: Name=JTCK2
+Added Pin To Net: NetName=JTMS2 Pin=P2-2
+Added Pin To Net: NetName=JTMS2 Pin=U1-34
+Added Net: Name=JTMS2
+Added Pin To Net: NetName=NRST2 Pin=P2-5
+Added Pin To Net: NetName=NRST2 Pin=U1-7
+Added Net: Name=NRST2
+Added Pin To Net: NetName=USB2_N Pin=R1-2
+Added Pin To Net: NetName=USB2_N Pin=U1-32
+Added Net: Name=USB2_N
+Added Pin To Net: NetName=USB2_P Pin=R2-2
+Added Pin To Net: NetName=USB2_P Pin=U1-33
+Added Net: Name=USB2_P
